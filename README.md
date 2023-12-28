@@ -6,7 +6,7 @@
 
 * As a developer, I want to create tests to validate the core functionality of all classes in the application.
 
-## Acceptance Criteria
+## Criteria
 
 * It's done when I have created a `Component` class that takes in children, which defaults to an empty array if not provided.
 

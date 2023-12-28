@@ -1,4 +1,4 @@
-# 🏗️ Module 10 Mini-Project: Create Tests and Classes for List Generator
+# 10 Mini-Project: Create Tests and Classes for List Generator
 
 ## Instructed Notes
 
